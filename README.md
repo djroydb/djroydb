@@ -1,4 +1,4 @@
-## Olá... Meu nome é Robson, programador e apaixonado por tecnologia!
+## Olá... Meu nome é Robson, desenvolvedor de software e apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/djroydb">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=djroydb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
