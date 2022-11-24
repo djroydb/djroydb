@@ -6,7 +6,8 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="djroydb-Android" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="djroydb-Android" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="djroydb-Kotlin" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="djroydb-Java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   </div>
   
