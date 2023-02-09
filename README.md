@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/djroydb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djroydb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djroydb&theme=midnight-purple&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djroydb&langs_count=8&theme=midnight-purple&count_private=true"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
