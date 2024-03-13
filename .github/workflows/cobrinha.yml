@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
       # every 6 hours
-    - cron: "* */6 * * *"
+    - cron: "* */5 * * *"
 
   workflow_dispatch:
 
@@ -19,6 +19,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: djroydb
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
